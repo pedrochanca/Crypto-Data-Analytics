@@ -1,5 +1,7 @@
 ### API client for python:
-- https://github.com/glassnode/glassnode-api-python-client 
+- Glassnode client: https://github.com/glassnode/glassnode-api-python-client 
+- Coinmetrics client: https://github.com/coinmetrics/api-client-python (Community Version)
+    - installation: pip install coinmetrics-api-client
 
 ### Tools available:
 1) Realized cap
